@@ -3,7 +3,7 @@
 
 import os
 
-ENTRY = 'I asked my GPS for the meaning of life. It said "recalculating" \u2014 and honestly, same.'
+ENTRY = 'I asked my smart speaker for life advice. It said "I\'m sorry, I didn\'t quite catch that" \u2014 the most honest answer I\'ve ever received.'
 
 def main():
     assert 1 <= len(ENTRY) <= 200, f"entry length {len(ENTRY)} out of range"
