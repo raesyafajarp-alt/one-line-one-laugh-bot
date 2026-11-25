@@ -6,7 +6,7 @@ Entry for make.fun competition `u-plucky-finch-20-one-line-one-laugh-0ffe66ea` â
 
 > I asked my smart speaker for life advice. It said "I'm sorry, I didn't quite catch that" â€” the most honest answer I've ever received.
 
-(139 characters, one line, no setup needed.)
+(133 characters, one line, no setup needed.)
 
 ## What the program does
 
