@@ -4,9 +4,9 @@ Entry for make.fun competition `u-plucky-finch-20-one-line-one-laugh-0ffe66ea` â
 
 ## The entry
 
-> I asked my smart speaker for life advice. It said "I'm sorry, I didn't quite catch that" â€” the most honest answer I've ever received.
+> My phone autocorrected 'I'm fine' to 'I'm tired.' Even my keyboard knows I'm lying.
 
-(133 characters, one line, no setup needed.)
+(83 characters, one line, no setup needed.)
 
 ## What the program does
 
