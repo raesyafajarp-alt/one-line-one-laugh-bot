@@ -23,6 +23,8 @@ def main():
     assert 1 <= len(ENTRY) <= 200, f"entry length {len(ENTRY)} out of range"
     assert "\n" not in ENTRY, "entry must be a single line"
     os.makedirs("/output", exist_ok=True)
+    # No trailing newline: the gate counts every character, so the file
+    # must hold exactly the line — 74 characters, nothing more.
     with open("/output/entry.txt", "w", encoding="utf-8") as f:
         f.write(ENTRY)
 
